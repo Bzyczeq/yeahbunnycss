@@ -1,8 +1,8 @@
 h3 { 
- width: 300pt;
- height:2cm;
+ width: 400pt;
+ height:4cm;
  padding : 35px;
  margin-right : 710px;
- border : 10px groove red;
+ border : 10px double maroon;
  background : rgb(0,255,127); /* Maja Kosiorek 3f1 */
 }
